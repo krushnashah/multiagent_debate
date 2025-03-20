@@ -1,0 +1,8 @@
+# Agent Influence Network
+
+This is a simplified representation of how agents influenced each other:
+
+* Morgan_Business → Nova_Creative (critique)
+* Nova_Creative → Sage_Critical (critique)
+* Wellbeing_Expert → Nova_Creative (critique)
+* Sage_Critical → Nova_Creative (critique)

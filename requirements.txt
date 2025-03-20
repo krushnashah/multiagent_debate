@@ -1,0 +1,13 @@
+openai
+streamlit
+matplotlib
+networkx
+numpy
+python-dotenv
+pandas
+pillow
+markdown
+autogen
+PyPDF2
+python-docx
+bs4

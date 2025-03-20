@@ -1,0 +1,8 @@
+# Agent Influence Network
+
+This is a simplified representation of how agents influenced each other:
+
+* Morgan_Business → Sage_Critical (critique)
+* Sage_Critical → Morgan_Business (critique)
+* DrAda_Technical → Sage_Critical (critique)
+* Ethics_Expert → Morgan_Business (critique)
