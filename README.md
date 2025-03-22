@@ -1,6 +1,6 @@
 # Multi-Agent Ideation and Debate System
 
-A collaborative AI system where multiple AI agents with distinct personalities and expertise debate problems, identify common ground, and produce synthesized solutions that overcome the biases and limitations inherent in single-model approaches to ideation.
+A collaborative AI system where multiple AI agents with distinct personalities, expertise, and thinking styles debate topics, find shared insights and create comprehensive solutions. Unlike single-perspective approaches, this system brings multiple viewpoints together to develop more robust and balanced recommendations.
 
 ## Table of Contents
 
